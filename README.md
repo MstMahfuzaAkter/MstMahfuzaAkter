@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <img src="/bannar.jpg" alt="Hello world">
 <br>
 <br>
----
-
 ## 🧑‍💻 About Me
 I’m a passionate web developer specializing in frontend and MERN stack technologies.  
 Currently pursuing my degree in Computer Science and exploring modern tools like Next.js.  
