@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="/bannar.jpg" alt="Hello world">
 # 👋 Hi, I'm Mst. Mahfuza Akter
 ### 💻 Frontend Developer 
 
