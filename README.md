@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="/bannar.jpg" alt="Hello world">
-# 👋 Hi, I'm Mst. Mahfuza Akter
-### 💻 Frontend Developer 
-
+<br>
+<br>
 ---
 
 ## 🧑‍💻 About Me
